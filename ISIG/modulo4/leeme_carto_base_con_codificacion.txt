@@ -1,0 +1,25 @@
+En el documento comprimido "carto_base" encuentran las siguientes capas con sus correspondientes caracteristicas:
+
+Nombre capa: provincias_geo.shp
+EPSG: 4326
+Tipo: Polígono
+Descripción: Polígonos representativos de los límites provinciales.
+Fuente: Instituto Geográfico Nacional
+
+Nombre capa: departamentos.shp
+EPSG: 4326
+Tipo: Polígono
+Descripción: Polígonos representativos de los límites departamentales y de partidos de la provincia de Buenos Aires
+Fuente: Programa Nacional Mapa Educativo
+
+Nombre capa: localidades_bahra.shp
+EPSG: 4326
+Tipo: Puntos
+Descripción: Puntos representativos de las localidades del programa bahra (en construcción con INDEC, IGN y Ministerio de Educación de la Nación)
+Fuente: IGN, INDEC, Programa Nacional Mapa Educativo
+
+Nombre: Efectores de salud
+EPSG: 4326
+Tipo: Puntos
+Descripcion: Efectores de salud, de todo el país. No es representativo de todo el universo (datos provisorios)
+Fuente: Ministerio de Salud de la Nación (Remediar, Nacer, SISA). Georeferenciación Ministerio de Salud en colaboración con Programa Nacional Mapa Educativo.
