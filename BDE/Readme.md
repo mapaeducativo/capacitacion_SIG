@@ -1,13 +1,14 @@
-#Curso de Capacitación en Bases de Datos Espaciales
+# Curso de Capacitación en Bases de Datos Espaciales
+
 Año 2012
 
-##Clase 0
+## Clase 0
 Instalación de gvSIG.
 Instalación de Postgres.
 Instalación de PGAdmin.
 Instalación de ODBC para postgres.
 
-##Clase 1
+## Clase 1
 Introducción a las bases de datos.
 Bases de datos relacionales.
 Motores de bases de datos: PostgreSQL
@@ -18,7 +19,7 @@ Claves primarias.
 Visualización de información geográfica de la base desde gvSIG y otros SIG de escritorio.
 
 
-##Clase 2
+## Clase 2
 Extensión PostGIS.
 Tablas de PostGIS: sistemas de referencia y columnas geométricas. 
 Tipos de geometrías.
@@ -27,7 +28,7 @@ Migración de datos espaciales: desde GVSIG y desde DOS.
 SQL: comandos de actualización. Insertar, modificar y eliminar datos de una tabla.
 SQL espacial: consulta de datos espaciales: distancia, superficie, longitud, SRID, reproyectar, tipo de geometría y cantidad de vértices.
 
-##Clase 3
+## Clase 3
 Integridad referencial. Restricciones, claves únicas y claves foráneas.
 Utilización de códigos comunes para entidades geográficas.
 SQL: consultas y subconsultas.
@@ -35,33 +36,33 @@ Vistas.
 SQL espacial: consulta con resultados geométricos.
 Vistas con datos espaciales.
 
-##Clase 4
+## Clase 4
 SQL espacial: análisis topológicos.
 Funciones y Funciones espaciales.
 Índices espaciales.
 Edición de información geográfica desde un SIG.
 SQL: consultas de agregación.
 
-##Clase 5
+## Clase 5
 SQL espacial: análisis de conjunto
 Análisis espacial con PostGIS: comandos de geoproceso.
 Geocodificación de domicilios.
-Geocodificación en base a datos alfanuméricos.
+Geocodificación en base a datos alfanuméricos
 
-##Clase 6
+## Clase 6
 Administración de la base de datos espaciales. Roles, grupos, privilegios.
 Actualización de los datos.
 Gestión de proyectos de gvSIG con PostGIS.
 Las bases de datos espaciales y las Infraestructuras de Datos Espaciales IDE.
 
-##Clase 7
+## Clase 7
 Trabajo final de integración.
 
-#Docentes:
+# Docentes:
 - Manuel Retamozo
 - Horacio Castellaro
 
-#Tutores:
+# Tutores:
 - Mercedes Mugni
 - Samanta Aleso
 - Luis Piccinali
